@@ -1,0 +1,21 @@
+{
+  "name": "opentab",
+  "description": "opens a new tab with info on the selection (in the future)",
+  "version": "0.0.1",
+  "author": "",
+  "contributors": [
+    {
+      "name": "",
+      "email": ""
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "plugins": {
+    "opentab": {}
+  },
+  "categories": ["miscellaneous"],
+  "licenses": []
+}
